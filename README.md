@@ -1,5 +1,5 @@
 # ACEest Fitness & Gym – Flask CI/CD Project
-
+# Built as part of the DevOps assignment
 A Flask REST service for gym management (programs, clients, BMI/calorie targets,
 membership checks, workout logs), built with a full DevOps pipeline:
 Git/GitHub → Pytest → Docker → GitHub Actions → Jenkins.
